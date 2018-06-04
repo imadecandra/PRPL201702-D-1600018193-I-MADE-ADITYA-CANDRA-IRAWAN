@@ -1,0 +1,948 @@
+
+#art-main
+{
+   
+   margin:0 auto;
+   font-size: 13px;
+   font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+   font-weight: normal;
+   font-style: normal;
+   position: relative;
+   width: 100%;
+   min-height: 100%;
+   left: 0;
+   top: 0;
+   cursor:default;
+}
+table, ul.art-hmenu
+{
+   font-size: 13px;
+   font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+   font-weight: normal;
+   font-style: normal;
+}
+
+h1, h2, h3, h4, h5, h6, p, a, ul, ol, li
+{
+   margin: 0;
+   padding: 0;
+}
+
+.art-button
+{
+   border: 0;
+   border-collapse: separate;
+   -webkit-background-origin: border !important;
+   -moz-background-origin: border !important;
+   background-origin: border-box !important;
+   background: #FFA145;
+   padding:0 35px;
+   margin:0 auto;
+   height:33px;
+}
+
+.art-postcontent,
+.art-postheadericons,
+.art-postfootericons,
+.art-blockcontent,
+ul.art-vmenu a 
+{
+   text-align: left;
+}
+
+.art-postcontent,
+.art-postcontent li,
+.art-postcontent table,
+.art-postcontent a,
+.art-postcontent a:link,
+.art-postcontent a:visited,
+.art-postcontent a.visited,
+.art-postcontent a:hover,
+.art-postcontent a.hovered
+{
+   font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+}
+
+.art-postcontent p
+{
+   margin: 12px 0;
+}
+
+.art-postcontent h1, .art-postcontent h1 a, .art-postcontent h1 a:link, .art-postcontent h1 a:visited, .art-postcontent h1 a:hover,
+.art-postcontent h2, .art-postcontent h2 a, .art-postcontent h2 a:link, .art-postcontent h2 a:visited, .art-postcontent h2 a:hover,
+.art-postcontent h3, .art-postcontent h3 a, .art-postcontent h3 a:link, .art-postcontent h3 a:visited, .art-postcontent h3 a:hover,
+.art-postcontent h4, .art-postcontent h4 a, .art-postcontent h4 a:link, .art-postcontent h4 a:visited, .art-postcontent h4 a:hover,
+.art-postcontent h5, .art-postcontent h5 a, .art-postcontent h5 a:link, .art-postcontent h5 a:visited, .art-postcontent h5 a:hover,
+.art-postcontent h6, .art-postcontent h6 a, .art-postcontent h6 a:link, .art-postcontent h6 a:visited, .art-postcontent h6 a:hover,
+.art-blockheader .t, .art-blockheader .t a, .art-blockheader .t a:link, .art-blockheader .t a:visited, .art-blockheader .t a:hover,
+.art-vmenublockheader .t, .art-vmenublockheader .t a, .art-vmenublockheader .t a:link, .art-vmenublockheader .t a:visited, .art-vmenublockheader .t a:hover,
+.art-headline, .art-headline a, .art-headline a:link, .art-headline a:visited, .art-headline a:hover,
+.art-slogan, .art-slogan a, .art-slogan a:link, .art-slogan a:visited, .art-slogan a:hover,
+.art-postheader, .art-postheader a, .art-postheader a:link, .art-postheader a:visited, .art-postheader a:hover
+{
+   font-size: 32px;
+   font-family: 'Arial Narrow', Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+   font-weight: bold;
+   font-style: normal;
+   text-decoration: none;
+}
+
+.art-postcontent a, .art-postcontent a:link
+{
+   font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+   text-decoration: none;
+   color: #4C7FB3;
+}
+
+.art-postcontent a:visited, .art-postcontent a.visited
+{
+   font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+   text-decoration: none;
+   color: #4C7FB3;
+}
+
+.art-postcontent  a:hover, .art-postcontent a.hover
+{
+   font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+   text-decoration: underline;
+   color: #F59F0A;
+}
+
+.art-postcontent h1
+{
+   color: #0078D8;
+   margin:0;
+   font-size: 28px;
+   font-family: 'Arial Narrow', Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+   font-weight: normal;
+   font-style: normal;
+}
+
+.art-blockcontent h1
+{
+   margin:0;
+   font-size: 28px;
+   font-family: 'Arial Narrow', Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+   font-weight: normal;
+   font-style: normal;
+}
+
+.art-postcontent h1 a, .art-postcontent h1 a:link, .art-postcontent h1 a:hover, .art-postcontent h1 a:visited, .art-blockcontent h1 a, .art-blockcontent h1 a:link, .art-blockcontent h1 a:hover, .art-blockcontent h1 a:visited 
+{
+   font-size: 28px;
+   font-family: 'Arial Narrow', Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+   font-weight: normal;
+   font-style: normal;
+}
+
+.art-postcontent h2
+{
+   color: #9C9C9C;
+   margin-top: 19px;
+   margin-bottom: 19px;
+   font-size: 24px;
+   font-family: 'Arial Narrow', Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+}
+
+.art-blockcontent h2
+{
+   margin-top: 19px;
+   margin-bottom: 19px;
+   font-size: 24px;
+   font-family: 'Arial Narrow', Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+}
+
+.art-postcontent h2 a, .art-postcontent h2 a:link, .art-postcontent h2 a:hover, .art-postcontent h2 a:visited, .art-blockcontent h2 a, .art-blockcontent h2 a:link, .art-blockcontent h2 a:hover, .art-blockcontent h2 a:visited 
+{
+   font-size: 24px;
+   font-family: 'Arial Narrow', Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+}
+
+.art-postcontent h3
+{
+   color: #F9C976;
+   margin: 20px 0 10px;
+   font-size: 20px;
+   font-family: 'Arial Narrow', Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+}
+
+.art-blockcontent h3
+{
+   margin: 20px 0 10px;
+   font-size: 20px;
+   font-family: 'Arial Narrow', Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+}
+
+.art-postcontent h3 a, .art-postcontent h3 a:link, .art-postcontent h3 a:hover, .art-postcontent h3 a:visited, .art-blockcontent h3 a, .art-blockcontent h3 a:link, .art-blockcontent h3 a:hover, .art-blockcontent h3 a:visited 
+{
+   font-size: 20px;
+   font-family: 'Arial Narrow', Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+}
+
+.art-postcontent h4
+{
+   color: #0078D8;
+   margin:0;
+   font-size: 26px;
+   font-family: 'Arial Narrow', Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+   font-weight: normal;
+   font-style: normal;
+}
+
+.art-blockcontent h4
+{
+   margin:0;
+   font-size: 26px;
+   font-family: 'Arial Narrow', Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+   font-weight: normal;
+   font-style: normal;
+}
+
+.art-postcontent h4 a, .art-postcontent h4 a:link, .art-postcontent h4 a:hover, .art-postcontent h4 a:visited, .art-blockcontent h4 a, .art-blockcontent h4 a:link, .art-blockcontent h4 a:hover, .art-blockcontent h4 a:visited 
+{
+   font-size: 26px;
+   font-family: 'Arial Narrow', Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+   font-weight: normal;
+   font-style: normal;
+}
+
+.art-postcontent h5
+{
+   color: #696969;
+   font-size: 22px;
+   font-family: 'Arial Narrow', Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+   font-weight: normal;
+   font-style: normal;
+   text-transform: uppercase;
+}
+
+.art-blockcontent h5
+{
+   font-size: 22px;
+   font-family: 'Arial Narrow', Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+   font-weight: normal;
+   font-style: normal;
+   text-transform: uppercase;
+}
+
+.art-postcontent h5 a, .art-postcontent h5 a:link, .art-postcontent h5 a:hover, .art-postcontent h5 a:visited, .art-blockcontent h5 a, .art-blockcontent h5 a:link, .art-blockcontent h5 a:hover, .art-blockcontent h5 a:visited 
+{
+   font-size: 22px;
+   font-family: 'Arial Narrow', Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+   font-weight: normal;
+   font-style: normal;
+   text-transform: uppercase;
+}
+
+.art-postcontent h6
+{
+   color: #B8B8B8;
+   margin: -5px 0 -10px;
+   font-size: 28px;
+   font-family: 'Arial Narrow', Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+   font-weight: bold;
+   font-style: normal;
+}
+
+.art-blockcontent h6
+{
+   margin: -5px 0 -10px;
+   font-size: 28px;
+   font-family: 'Arial Narrow', Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+   font-weight: bold;
+   font-style: normal;
+}
+
+.art-postcontent h6 a, .art-postcontent h6 a:link, .art-postcontent h6 a:hover, .art-postcontent h6 a:visited, .art-blockcontent h6 a, .art-blockcontent h6 a:link, .art-blockcontent h6 a:hover, .art-blockcontent h6 a:visited 
+{
+   font-size: 28px;
+   font-family: 'Arial Narrow', Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+   font-weight: bold;
+   font-style: normal;
+}
+
+header, footer, article, nav, #art-hmenu-bg, .art-sheet, .art-hmenu a, .art-vmenu a, .art-slidenavigator > a, .art-checkbox:before, .art-radiobutton:before
+{
+   -webkit-background-origin: border !important;
+   -moz-background-origin: border !important;
+   background-origin: border-box !important;
+}
+
+header, footer, article, nav, #art-hmenu-bg, .art-sheet, .art-slidenavigator > a, .art-checkbox:before, .art-radiobutton:before
+{
+   display: block;
+   -webkit-box-sizing: border-box;
+   -moz-box-sizing: border-box;
+   box-sizing: border-box;
+}
+
+ul
+{
+   list-style-type: none;
+}
+
+ol
+{
+   list-style-position: inside;
+}
+
+html, body
+{
+   height: 100%;
+}
+
+body
+{
+   padding: 0;
+   margin:0;
+   min-width: 1000px;
+   color: #878787;
+}
+
+.clearfix:before, .clearfix:after {
+   content: "";
+   display: table;
+}
+
+.clearfix:after {
+   clear: both;
+}
+
+.cleared {
+   font: 0/0 serif;
+   clear: both;
+}
+
+form
+{
+   padding: 0 !important;
+   margin: 0 !important;
+}
+
+table.position
+{
+   position: relative;
+   width: 100%;
+   table-layout: fixed;
+}
+
+li h1, .art-postcontent li h1, .art-blockcontent li h1 
+{
+   margin:1px;
+} 
+li h2, .art-postcontent li h2, .art-blockcontent li h2 
+{
+   margin:1px;
+} 
+li h3, .art-postcontent li h3, .art-blockcontent li h3 
+{
+   margin:1px;
+} 
+li h4, .art-postcontent li h4, .art-blockcontent li h4 
+{
+   margin:1px;
+} 
+li h5, .art-postcontent li h5, .art-blockcontent li h5 
+{
+   margin:1px;
+} 
+li h6, .art-postcontent li h6, .art-blockcontent li h6 
+{
+   margin:1px;
+} 
+li p, .art-postcontent li p, .art-blockcontent li p 
+{
+   margin:1px;
+}
+
+
+.art-shapes
+{
+   position: absolute;
+   top: 0;
+   right: 0;
+   bottom: 0;
+   left: 0;
+   overflow: hidden;
+   z-index: 0;
+}
+
+.art-slider-inner {
+   position: relative;
+   overflow: hidden;
+   width: 100%;
+   height: 100%;
+}
+
+.art-slidenavigator > a {
+   display: inline-block;
+   vertical-align: middle;
+   outline-style: none;
+   font-size: 1px;
+}
+
+.art-slidenavigator > a:last-child {
+   margin-right: 0 !important;
+}
+.art-bg
+{
+    display: block;
+    left: 50%;
+    margin-left: -853px;
+    position: absolute;
+    top: 102px;
+    width: 1706px;
+    height: 404px;
+	background-position: center top;
+    background-repeat: no-repeat; 
+    z-index: 10;
+}
+.art-headline
+{
+  display: inline-block;
+  position: absolute;
+  min-width: 50px;
+  left: 13.63%;
+  line-height: 100%;
+  margin-left: -2px !important;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  -o-transform: rotate(0deg);
+  -ms-transform: rotate(0deg);
+  transform: rotate(0deg);
+  z-index: 99;
+}
+
+.art-headline, 
+.art-headline a, 
+.art-headline a:link, 
+.art-headline a:visited, 
+.art-headline a:hover
+{
+font-size: 40px;
+font-family: 'Arial Narrow', Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+font-weight: bold;
+font-style: normal;
+text-decoration: none;
+  padding: 0;
+  margin-top: 15px;
+  color: #FFFFFF !important;
+  white-space: nowrap;
+  
+}
+.art-slogan
+{
+  display: inline-block;
+  position: absolute;
+  min-width: 50px;
+  top: 55px;
+	left: 13.93%;
+  line-height: 100%;
+  margin-left: -3px !important;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  -o-transform: rotate(0deg);
+  -ms-transform: rotate(0deg);
+  transform: rotate(0deg);
+  z-index: 99;
+  white-space: nowrap;
+}
+
+.art-slogan, 
+.art-slogan a, 
+.art-slogan a:link, 
+.art-slogan a:visited, 
+.art-slogan a:hover
+{
+font-size: 17px;
+font-family: 'Arial Narrow', Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+font-weight: bold;
+font-style: normal;
+text-decoration: none;
+  padding: 0;
+  margin: 0;
+  color: #FFE0AF  !important;
+}
+
+
+
+
+.art-footer .layout-item-0 { padding: 20px;  }
+.ie7 .post .layout-cell {border:none !important; padding:0 !important; }
+.ie6 .post .layout-cell {border:none !important; padding:0 !important; }
+
+.art-header
+{
+   margin:0px auto 0;
+   position:relative;
+   height: 500px;
+   background-image: url('header.png');/*gmbr depan*/
+   background-position: center top;
+   background-repeat: no-repeat;
+
+}
+
+.responsive .art-header 
+{
+   background-image: url('header.png');
+   background-position: center center;
+}
+
+.art-header-inner{
+   position: relative;
+   width: 1000px;
+   z-index: auto !important;
+   margin: 0 auto;
+}
+
+.art-header>.widget 
+{
+   position:absolute;
+   z-index:101;
+}
+
+.art-nav
+{
+     background: rgba(0, 0, 0, 0.11) none repeat scroll 0% 0%;
+    padding: 0px;
+    z-index: 100;
+    font-size: 0px;
+    position: absolute;
+    margin-left: 176px;
+    top: 102px;
+    width: 1000px;
+}
+
+ul.art-hmenu a, ul.art-hmenu a:link, ul.art-hmenu a:visited, ul.art-hmenu a:hover 
+{
+   outline: none;
+   position: relative;
+   z-index: 11;
+}
+
+ul.art-hmenu, ul.art-hmenu ul
+{
+   display: block;
+   margin: 0;
+   padding: 0;
+   border: 0;
+   list-style-type: none;
+}
+
+ul.art-hmenu li
+{
+   position: relative;
+   z-index: 5;
+   display: block;
+   float: left;
+   background: none;
+   margin: 0;
+   padding: 0;
+   border: 0;
+}
+
+ul.art-hmenu li:hover
+{
+   z-index: 10000;
+   white-space: normal;
+}
+
+ul.art-hmenu:after, ul.art-hmenu ul:after
+{
+   content: ".";
+   height: 0;
+   display: block;
+   visibility: hidden;
+   overflow: hidden;
+   clear: both;
+}
+
+ul.art-hmenu, ul.art-hmenu ul 
+{
+   min-height: 0;
+}
+
+ul.art-hmenu 
+{
+   display: inline-block;
+   vertical-align: bottom;
+}
+
+.art-nav-inner:before 
+{
+   content:' ';
+    background-image: url('depanhotel.jpg');background-position: center top;
+   background-repeat: no-repeat;
+}
+
+.art-nav-inner{
+   text-align: left;
+   margin:0 auto;
+    background-image: url('depanhotel.jpg');background-position: center top;
+   background-repeat: no-repeat;
+}
+
+.desktop-nav .art-nav-inner{
+   width: 1000px;
+   padding-left: 20px;
+   padding-right: 20px;
+}
+
+.desktop-nav.art-nav
+{
+   padding-left: 0;
+   padding-right: 0;
+}
+
+.art-hmenu-extra1
+{
+   position: relative;
+   display: block;
+   float: left;
+   width: auto;
+   height: auto;
+   background-position: center;
+}
+
+.art-hmenu-extra2
+{
+   position: relative;
+   display: block;
+   float: right;
+   width: auto;
+   height: auto;
+   background-position: center;
+}
+
+.art-hmenu
+{
+   float: left;
+}
+
+.art-menuitemcontainer
+{
+   margin:0 auto;
+}
+ul.art-hmenu>li {
+   margin-left: 1px;
+}
+ul.art-hmenu>li:first-child {
+   margin-left: 0;
+}
+ul.art-hmenu>li:last-child, ul.art-hmenu>li.last-child {
+   margin-right: 0;
+}
+
+ul.art-hmenu>li>a
+{
+   padding: 0px 37.5px;
+   margin:0 auto;
+   position: relative;
+   display: block;
+   height: 46px;
+   cursor: pointer;
+   text-decoration: none;
+   color: #FFFFFF;
+   line-height: 46px;
+   text-align: center;
+}
+
+.art-hmenu a, 
+.art-hmenu a:link, 
+.art-hmenu a:visited, 
+.art-hmenu a.active, 
+.art-hmenu a:hover
+{
+   font-size: 18px;
+   font-family: 'Arial Narrow', Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+   font-weight: bold;
+   font-style: normal;
+   text-decoration: none;
+   text-align: left;
+}
+
+ul.art-hmenu>li>a.active
+{
+   background: #FFFFFF;
+   padding: 0px 37.5px;
+   margin:0 auto;
+   color: #F5A519;
+   text-decoration: none;
+}
+
+ul.art-hmenu>li>a:visited, 
+ul.art-hmenu>li>a:hover, 
+ul.art-hmenu>li:hover>a {
+   text-decoration: none;
+}
+
+ul.art-hmenu>li>a:hover, .desktop ul.art-hmenu>li:hover>a
+{
+   background: #0073CF ;
+   padding: 0px 37.5px;
+   margin:0 auto;
+}
+ul.art-hmenu>li>a:hover, 
+.desktop-nav ul.art-hmenu>li:hover>a {
+   color: #FFFFFF;
+   text-decoration: none;
+}
+
+ul.art-hmenu>li:before
+{
+   position:absolute;
+   display: block;
+   content:' ';
+   top:0;
+   left:  -1px;
+   width:1px;
+   height: 46px;
+   background-image: url('depanhotel.jpg');background-position: center top;
+   background-repeat: no-repeat; center center no-repeat;
+}
+ul.art-hmenu>li:first-child:before{
+   display:none;
+}
+
+ul.art-hmenu li li a
+{
+   background: #BFBFBF;
+   padding:0 8px;
+   margin:0 auto;
+}
+ul.art-hmenu li li 
+{
+   float: none;
+   width: auto;
+   margin-top: 0;
+   margin-bottom: 0;
+}
+
+.desktop-nav ul.art-hmenu li li ul>li:first-child 
+{
+   margin-top: 0;
+}
+
+ul.art-hmenu li li ul>li:last-child 
+{
+   margin-bottom: 0;
+}
+
+.art-hmenu ul a
+{
+	 background-image: url('depanhotel.jpg');background-position: center top;
+   background-repeat: no-repeat;
+   display: block;
+   white-space: nowrap;
+   height: 23px;
+   min-width: 7em;
+   border: 0 solid transparent;
+   text-align: left;
+   line-height: 23px;
+   color: #262626;
+   font-size: 12px;
+   font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+   text-decoration: none;
+   margin:0;
+}
+
+.art-hmenu ul a:link, 
+.art-hmenu ul a:visited, 
+.art-hmenu ul a.active, 
+.art-hmenu ul a:hover
+{
+   text-align: left;
+   line-height: 23px;
+   color: #262626;
+   font-size: 12px;
+   font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+   text-decoration: none;
+   margin:0;
+}
+
+ul.art-hmenu ul li a:hover, .desktop ul.art-hmenu ul li:hover>a
+{
+   background: #949494;
+   margin:0 auto;
+}
+
+.art-hmenu ul li a:hover
+{
+   color: #172636;
+}
+
+.desktop-nav .art-hmenu ul li:hover>a
+{
+   color: #172636;
+}
+
+ul.art-hmenu ul:before
+{
+   background: #426E9A;
+   margin:0 auto;
+   display: block;
+   position: absolute;
+   content: ' ';
+   z-index: 1;
+}
+.desktop-nav ul.art-hmenu li:hover>ul {
+   visibility: visible;
+   top: 100%;
+}
+.desktop-nav ul.art-hmenu li li:hover>ul {
+   top: 0;
+   left: 100%;
+}
+
+ul.art-hmenu ul
+{
+   visibility: hidden;
+   position: absolute;
+   z-index: 10;
+   left: 0;
+   top: 0;
+   background-image: url('room1.jpg');
+}
+
+.desktop-nav ul.art-hmenu>li>ul
+{
+   padding: 10px 30px 30px 30px;
+   margin: -10px 0 0 -30px;
+}
+
+.desktop-nav ul.art-hmenu ul ul
+{
+   padding: 30px 30px 30px 10px;
+   margin: -30px 0 0 -10px;
+}
+
+.desktop-nav ul.art-hmenu ul.art-hmenu-left-to-right 
+{
+   right: auto;
+   left: 0;
+   margin: -10px 0 0 -30px;
+}
+
+.desktop-nav ul.art-hmenu ul.art-hmenu-right-to-left 
+{
+   left: auto;
+   right: 0;
+   margin: -10px -30px 0 0;
+}
+
+.desktop-nav ul.art-hmenu li li:hover>ul.art-hmenu-left-to-right {
+   right: auto;
+   left: 100%;
+}
+.desktop-nav ul.art-hmenu li li:hover>ul.art-hmenu-right-to-left {
+   left: auto;
+   right: 100%;
+}
+
+.desktop-nav ul.art-hmenu ul ul.art-hmenu-left-to-right
+{
+   right: auto;
+   left: 0;
+   padding: 30px 30px 30px 10px;
+   margin: -30px 0 0 -10px;
+}
+
+.desktop-nav ul.art-hmenu ul ul.art-hmenu-right-to-left
+{
+   left: auto;
+   right: 0;
+   padding: 30px 10px 30px 30px;
+   margin: -30px -10px 0 0;
+}
+
+.desktop-nav ul.art-hmenu li ul>li:first-child {
+   margin-top: 0;
+}
+.desktop-nav ul.art-hmenu li ul>li:last-child {
+   margin-bottom: 0;
+}
+
+.desktop-nav ul.art-hmenu ul ul:before
+{
+   border-radius: 0;
+   top: 30px;
+   bottom: 30px;
+   right: 30px;
+   left: 10px;
+}
+
+.desktop-nav ul.art-hmenu>li>ul:before
+{
+	
+   top: 10px;
+   right: 30px;
+   bottom: 30px;
+   left: 30px;
+}
+
+.desktop-nav ul.art-hmenu>li>ul.art-hmenu-left-to-right:before {
+   right: 30px;
+   left: 30px;
+}
+.desktop-nav ul.art-hmenu>li>ul.art-hmenu-right-to-left:before {
+   right: 30px;
+   left: 30px;
+}
+.desktop-nav ul.art-hmenu ul ul.art-hmenu-left-to-right:before {
+   right: 30px;
+   left: 10px;
+}
+.desktop-nav ul.art-hmenu ul ul.art-hmenu-right-to-left:before {
+   right: 10px;
+   left: 30px;
+}
+
+.art-sheet
+{
+   background: #FFFFFF;
+   background: transparent;
+   -webkit-border-radius:5px;
+   -moz-border-radius:5px;
+   border-radius:5px;
+   margin:0 auto;
+   position:relative;
+   cursor:auto;
+   width: 1000px;
+   z-index: auto !important;
+}
+
+.art-layout-wrapper
+{
+   position: relative;
+   margin: 0 auto 0 auto;
+   z-index: auto !important;
+   border: 1px solid #C5C5C5;
+}
+
+.art-content-layout
+{
+   display: table;
+   width: 100%;
+   table-layout: fixed;
+   border-collapse: collapse;
+}
+
+.art-content-layout-row 
+{
+   display: table-row;
+}
+
+.art-layout-cell
+{
+   display: table-cell;
+   vertical-align: top;
+}
+
+.art-breadcrumbs
+{
+   margin:0 auto;
+}
+
+
+
+/* End Additional CSS Styles */

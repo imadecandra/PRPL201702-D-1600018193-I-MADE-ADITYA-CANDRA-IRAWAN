@@ -1,0 +1,314 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"id",
+				"id_kamar"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"No",
+				"No_kamar"
+			],
+			[
+				"N",
+				"No_kamar"
+			],
+			[
+				"no",
+				"no_HP"
+			],
+			[
+				"np",
+				"no_HP"
+			],
+			[
+				"id_",
+				"id_tamu"
+			],
+			[
+				"p",
+				"_POST"
+			],
+			[
+				"mysdb",
+				"mysql_select_db"
+			],
+			[
+				"mysc",
+				"mysql_connect"
+			],
+			[
+				"err",
+				"error_reporting"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"date",
+				"date"
+			],
+			[
+				"va",
+				"Variabel"
+			],
+			[
+				"B",
+				"bgcolor"
+			],
+			[
+				"ti",
+				"title\tTag"
+			],
+			[
+				"bg",
+				"background-color"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"c",
+				"cols\tAttr"
+			],
+			[
+				"f",
+				"frameset\tTag"
+			],
+			[
+				"h",
+				"html\thtml"
+			],
+			[
+				"b",
+				"body\tTag"
+			],
+			[
+				"fr",
+				"frame\tTag"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"li",
+				"link\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/hotelku/index.html",
+		"/C/xampp/htdocs/hotelku/program.css",
+		"/C/xampp/htdocs/hotelku/save_sewa.php",
+		"/C/xampp/htdocs/hotelku/sewa.php",
+		"/C/xampp/htdocs/hotelku/save_kamar.php",
+		"/E/Kuliah Semester 2/Pemrograman web/contoh swith.php",
+		"/E/Kuliah Semester 2/Pemrograman web/pertemuan ke 11.php",
+		"/E/KULIAH UNIVERSITAS AHMAD DAHLAN/Indah Nur Hikmah Sari-1600018174-Class D.pdf",
+		"/E/Kuliah Semester 2/quiz p.10.php",
+		"/E/Kuliah Semester 2/Pemrograman web/p.11.php",
+		"/E/Kuliah Semester 2/Pemrograman web/pweb p.11",
+		"/E/Kuliah Semester 2/Pemrograman web/contoh swit",
+		"/E/Kuliah Semester 2/Pemrograman web/quiz temu 10",
+		"/E/Kuliah Semester 2/Pemrograman web/Tugas-PWEB2017-D-1600018193-I Made Aditya Candra Irawan/Tugas07/contoh03.html",
+		"/E/Kuliah Semester 2/Pemrograman web/Tugas-PWEB2017-D-1600018193-I Made Aditya Candra Irawan/Tugas07/contoh04.html",
+		"/E/Kuliah Semester 2/Pemrograman web/Tugas-PWEB2017-D-1600018193-I Made Aditya Candra Irawan/Tugas-PascaUTS2017/4/Javascript-3.html",
+		"/E/Kuliah Semester 2/Pemrograman web/Tugas-PWEB2017-D-1600018193-I Made Aditya Candra Irawan/Tugas-PascaUTS2017/5/style desain layout-4.css",
+		"/E/Kuliah Semester 2/Pemrograman web/Tugas-PWEB2017-D-1600018193-I Made Aditya Candra Irawan/Tugas-PascaUTS2017/5/Desain Layout-3.html",
+		"/E/Kuliah Semester 2/Prak Pweb/pertemuan ke 8.html",
+		"/E/Kuliah Semester 2/Pemrograman web/Tugas-PWEB2017-D-1600018193-I Made Aditya Candra Irawan/Tugas07/tugasbos.html",
+		"/E/Kuliah Semester 2/Pemrograman web/Tugas-PWEB2017-D-1600018193-I Made Aditya Candra Irawan/Tugas07/tugas.html",
+		"/D/bluetooth/Luna maya mandi.3gp",
+		"/E/Kuliah Semester 2/Pemrograman web/soal uts/SOAL NOMER 4 .html",
+		"/E/Kuliah Semester 2/Pemrograman web/soal uts/SOAL NOMER 5.html",
+		"/E/Kuliah Semester 2/Pemrograman web/soal uts/5.js",
+		"/E/Kuliah Semester 2/Pemrograman web/Tugas-PWEB2017-D-1600018193-I Made Aditya Candra Irawan/Tugas07/tugas07.html",
+		"/E/Kuliah Semester 2/Pemrograman web/Tugas-PWEB2017-D-1600018193-I Made Aditya Candra Irawan/Tugas07/contoh02.html",
+		"/E/Kuliah Semester 2/Pemrograman web/Tugas-PWEB2017-D-1600018193-I Made Aditya Candra Irawan/Tugas07/contoh01.html",
+		"/E/Kuliah Semester 2/Prak Pweb/New folder/Profil.html",
+		"/E/Kuliah Semester 2/Prak Pweb/New folder/menu.html",
+		"/E/Kuliah Semester 2/Prak Pweb/New folder/Galery.html",
+		"/E/Kuliah Semester 2/Pemrograman web/Tugas-PWEB2017-D-1600018193-I Made Aditya Candra Irawan/Tugas06/01.html",
+		"/E/Kuliah Semester 2/Pemrograman web/Tugas-PWEB2017-D-1600018193-I Made Aditya Candra Irawan/Tugas06/tengah.html",
+		"/E/Kuliah Semester 2/Pemrograman web/Tugas-PWEB2017-D-1600018193-I Made Aditya Candra Irawan/Tugas06/frame.html",
+		"/E/Kuliah Semester 2/Pemrograman web/Tugas-PWEB2017-D-1600018193-I Made Aditya Candra Irawan/Tugas06/table.html",
+		"/E/Kuliah Semester 2/Prak Pweb/postest 5.html",
+		"/E/Kuliah Semester 2/Prak Pweb/isi kotak 2.html",
+		"/E/Kuliah Semester 2/Prak Pweb/futer.html",
+		"/E/Kuliah Semester 2/Prak Pweb/profil.html",
+		"/E/Kuliah Semester 2/Prak Pweb/galery.html",
+		"/E/Kuliah Semester 2/Prak Pweb/Pweb pos 5/kabeh.css",
+		"/E/Kuliah Semester 2/Pemrograman web/Tugas-PWEB2017-D-1600018193-I Made Aditya Candra Irawan/Tugas06/aku.css",
+		"/E/Kuliah Semester 2/Pemrograman web/Tugas-PWEB2017-D-1600018193-I Made Aditya Candra Irawan/Tugas06/bawah.html",
+		"/E/Kuliah Semester 2/Pemrograman web/Tugas-PWEB2017-D-1600018193-I Made Aditya Candra Irawan/Tugas06/jajal.html",
+		"/E/Kuliah Semester 2/Prak Pweb/isi kotak 2"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			">\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "aa.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
